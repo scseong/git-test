@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Write() {
-  return <div>Write</div>;
+  return <div>Write 룰루랄라</div>;
 }
